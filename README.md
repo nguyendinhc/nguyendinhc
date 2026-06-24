@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cường(bryan) 
-- 👀 I’m interested in LẬP TRÌNH
-- 🌱 I’m currently learning Đại Học SGU
+- 👀 I’m interested in programing 
+- 🌱 I’m currently learning SGU university 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail: nguyendinhcuongxl2005@gmail.com
 - 😄 Pronouns: ...
